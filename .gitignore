@@ -1,0 +1,14 @@
+# Libraries
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+*.db
+*.DS_store
+# Executables
+*.exe
+
+# Metadata
+Thumbs.db
